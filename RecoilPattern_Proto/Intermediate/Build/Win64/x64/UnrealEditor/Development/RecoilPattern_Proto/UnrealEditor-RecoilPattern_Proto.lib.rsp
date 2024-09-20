@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RecoilPattern_Proto.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\RecoilPattern_ProtoEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\AdvancedRecoilSystem.gen.cpp.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\FPSCameraComponent.gen.cpp.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\MyActorComponent.gen.cpp.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\RecoilPattern_Proto.init.gen.cpp.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\RecoilPattern_Proto.cpp.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\AdvancedRecoilSystem.cpp.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\FPSCameraComponent.cpp.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\MyActorComponent.cpp.obj"
+"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\Default.rc2.res"
+/OUT:"C:\Users\Hrvoje\Documents\Unreal Projects\RecoilPattern_Proto\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecoilPattern_Proto\UnrealEditor-RecoilPattern_Proto.lib"

@@ -1,0 +1,1 @@
+#include "C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Source/RecoilPattern_Proto/Public/FPSCameraComponent.h"

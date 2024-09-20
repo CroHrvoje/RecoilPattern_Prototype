@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FPWeapon/Materials/M_FPGun_Blue.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FPWeapon/Materials/M_FPGun_Orange.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1S/CMHTQ4A9WW3UY0DV2XYVCZ.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/BP_Weapon.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/WeaponShake.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/WeaponShake_Blue.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/WeaponShake_Orange.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_02.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_03.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_04.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_01.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_05.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_06.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_07.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_09.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_08.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/Cinematics/Takes/2024-09-09/Scene_1_10.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/FirstPerson/Blueprints/NewBlueprint1.uasset",
+				"C:/Users/Hrvoje/Documents/Unreal Projects/RecoilPattern_Proto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/BA/F4CD4HIXO333G43RLUY4JQ.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RecoilPattern_Proto.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RecoilPattern_Proto.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RecoilPattern_ProtoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RecoilPattern_Proto">
+      <UniqueIdentifier>{25216FEF-1D73-3E73-B9C2-20159E92062A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RecoilPattern_Proto\RecoilPattern_Proto.Build.cs">
+      <Filter>Source\RecoilPattern_Proto</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RecoilPattern_Proto\RecoilPattern_Proto.cpp">
+      <Filter>Source\RecoilPattern_Proto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RecoilPattern_Proto\RecoilPattern_Proto.h">
+      <Filter>Source\RecoilPattern_Proto</Filter>
+    </ClInclude>
+    <Filter Include="Source\RecoilPattern_Proto\Private">
+      <UniqueIdentifier>{12C94251-930D-3374-A6AB-0E3EE97D4CAD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RecoilPattern_Proto\Private\AdvancedRecoilSystem.cpp">
+      <Filter>Source\RecoilPattern_Proto\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RecoilPattern_Proto\Public">
+      <UniqueIdentifier>{926C0D4A-D9B2-3EB4-98C8-6670C02A5802}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RecoilPattern_Proto\Public\AdvancedRecoilSystem.h">
+      <Filter>Source\RecoilPattern_Proto\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

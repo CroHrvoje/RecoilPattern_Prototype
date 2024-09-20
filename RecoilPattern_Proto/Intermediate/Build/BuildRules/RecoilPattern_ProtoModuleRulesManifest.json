@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\RecoilPattern_Proto\\Source\\RecoilPattern_Proto\\RecoilPattern_Proto.Build.cs",
+		"E:\\RecoilPattern_Proto\\Source\\RecoilPattern_Proto.Target.cs",
+		"E:\\RecoilPattern_Proto\\Source\\RecoilPattern_ProtoEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

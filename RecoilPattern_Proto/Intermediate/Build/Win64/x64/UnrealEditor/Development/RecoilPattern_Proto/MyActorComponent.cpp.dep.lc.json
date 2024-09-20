@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hrvoje\\documents\\unreal projects\\recoilpattern_proto\\source\\recoilpattern_proto\\private\\myactorcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hrvoje\\documents\\unreal projects\\recoilpattern_proto\\intermediate\\build\\win64\\x64\\recoilpattern_protoeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\hrvoje\\documents\\unreal projects\\recoilpattern_proto\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\recoilpattern_proto\\definitions.recoilpattern_proto.h",
+            "c:\\users\\hrvoje\\documents\\unreal projects\\recoilpattern_proto\\source\\recoilpattern_proto\\public\\myactorcomponent.h",
+            "c:\\users\\hrvoje\\documents\\unreal projects\\recoilpattern_proto\\intermediate\\build\\win64\\unrealeditor\\inc\\recoilpattern_proto\\uht\\myactorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

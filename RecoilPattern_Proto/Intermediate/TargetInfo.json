@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RecoilPattern_Proto",
+			"Path": "..\\Source\\RecoilPattern_Proto.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RecoilPattern_ProtoEditor",
+			"Path": "..\\Source\\RecoilPattern_ProtoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
